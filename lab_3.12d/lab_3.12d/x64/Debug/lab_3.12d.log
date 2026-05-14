@@ -1,0 +1,4 @@
+﻿  lab_3.12d.cpp
+C:\Users\User\source\repos\lab_3.12d\lab_3.12d.cpp(210,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab_3.12d\lab_3.12d.cpp(211,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  lab_3.12d.vcxproj -> C:\Users\User\source\repos\lab_3.12d\x64\Debug\lab_3.12d.exe

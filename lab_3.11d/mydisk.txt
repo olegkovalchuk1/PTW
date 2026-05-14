@@ -1,0 +1,4 @@
+OCCUPIED
+data 0 60
+FREE
+60 368580
