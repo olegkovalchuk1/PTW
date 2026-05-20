@@ -1,0 +1,15 @@
+Laptop
+TechStore
+25000.50
+10
+pcs.
+Sugar
+ATB
+32.40
+100
+kg
+Coffee
+Silpo
+150.00
+50
+pack of 250g
