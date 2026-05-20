@@ -1,0 +1,15 @@
+Laptop
+TechStore
+25000
+10
+pcs
+Apple
+Silpo
+35
+100
+kg
+Sugar
+ATB
+32.40
+50
+kg
